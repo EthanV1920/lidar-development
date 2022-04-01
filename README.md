@@ -20,7 +20,16 @@ Task                    | Status        | Date Last Checked
  Research               | In Progress   | 3/31/2022
  Testing                | NA            | NS
  Drafting               | NA            | NS
- Manufacturing         | NA            | NS
+ Manufacturing          | NA            | NS
  Building               | NA            | NS
  Software Development   | NA            | NS
  Finalizing             | NA            | NS
+
+
+## Sensor List
+- IMU
+- Lidar
+- Delta
+- GPS
+- Camera
+- Collision
